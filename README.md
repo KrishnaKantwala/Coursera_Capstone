@@ -19,3 +19,19 @@ This repository has been created for the submission of project files.
   - which areas have potential Indian Restaurant Market?
   - which all areas lack Indian Restaurants?
   - which is the best place to stay if you prefer Indian Cuisine?
+ 
+ ### Methodology:
+ 
+ 1. Find all venues for each neighbourhood using Foursquare API.
+ 2. Filter out all venues with Indian restaurant for further analysis.
+ 3. Next using Foursquare API, find the Ratings, Tips, and Number of Likes for all the Indian Restaurants.
+ 4. Consider all the neighbourhoods with average rating greater or equal 9.0 to visualize on map.
+ 5. Visualize the Neighbourhoods and Borough based on average Rating using python’s Folium library.
+
+### Result:
+
+From analysis main research results are:
+- Greenwich Village (Manhattan), Tribeca (Manhattan), West Village (Manhattan) are some of the best neighborhoods for Indian cuisine.
+- Manhattan have potential Indian Restaurant Market.
+- Bronx ranks last in average rating of Indian Restaurants.
+- Manhattan is the best place to stay if you prefer Indian Cuisine.
