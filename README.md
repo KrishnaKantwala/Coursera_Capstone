@@ -2,7 +2,7 @@
 
 This repository has been created for the submission of project files. Week4 and Week5 consist the implementation of capstone project.
 
-## Capstone Project - The Battle of Neighbourhoods (Part-1)
+## Capstone Project - The Battle of Neighbourhoods 
 
 ### Introduction/Business Problem section:
 - The demographics of New York City indicate that it is a metropolis that is broad and ethnically diverse. It is the largest city with a long history of international immigration in the United States. In 2014, New York City was home to about 8.5 million residents, accounting for about 40 percent of the population of the state of New York and a significantly smaller proportion of the metropolitan area of New York, home to around 23.6 million. The city has been rising faster than the area over the last decade. The New York area continues to be the leading metropolitan gateway for accepted legal immigrants to the United States by far. New York City has also been an important entry point for immigrants; the word "melting pot" was coined on the Lower East Side to describe heavily populated immigrant communities.
