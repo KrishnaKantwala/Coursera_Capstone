@@ -1,6 +1,6 @@
 # IBM Capstone Data Science Project
 
-This repository has been created for the submission of project files. Week4 and Week5 consist the implementation of capstone project.
+This repository has been created for the submission of project files. 
 
 ## Capstone Project - The Battle of Neighbourhoods 
 
